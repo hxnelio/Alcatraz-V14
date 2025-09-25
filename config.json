@@ -1,0 +1,7 @@
+{
+    "token": "TOKEN",
+    "ownerId": "ID OWNER",
+    "bugReportChannelId": "ID SALON REPORT",
+    "modlogChannelId": "ID SALON LOGS",
+    "feedbackChannelId": "ID SALON FEEDBACK"
+}
