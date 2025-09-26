@@ -49,11 +49,11 @@ MIT License - Voir [LICENSE](LICENSE) pour plus de détails.
 
 <div align="center">
   
-  **⭐ Star ce repo si ça vous aide ! ⭐**
+**⭐ Star ce repo si ça vous aide ! ⭐**
   
-  *Développé par [Hen3lio](https://github.com/Hen3lio)*
+*Développé par [Hen3lio](https://github.com/Hen3lio)*
 
 ## Lien utiles
 
-*   [Github](https://github.com/hxnelio/Alcatraz-V14)
+ [Github](https://github.com/hxnelio/Alcatraz-V14)
 
