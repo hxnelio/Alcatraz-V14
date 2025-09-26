@@ -42,6 +42,17 @@ Alcatraz a beaucoup de fonctionnalités, avec **9 catégories principales**:
 * 5- Allez dans le fichier `config.jon` et le remplir.
 * 6- Après faite dans le CMD `npm start`.
 
+  
+## 📄 Licence
+
+MIT License - Voir [LICENSE](LICENSE) pour plus de détails.
+
+<div align="center">
+  
+  **⭐ Star ce repo si ça vous aide ! ⭐**
+  
+  *Développé par [Hen3lio](https://github.com/Hen3lio)*
+
 ## Lien utiles
 
 *   [Github](https://github.com/hxnelio/Alcatraz-V14)
